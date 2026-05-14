@@ -1,4 +1,3 @@
 # Realistic Park Environment Modeling in Blender
 
-![Uploading Untitled.png…]()
-
+![Uploading Untitled.png…]
